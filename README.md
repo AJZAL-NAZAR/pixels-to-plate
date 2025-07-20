@@ -30,6 +30,7 @@ This innovative application uses state-of-the-art deep learning techniques to an
 ---
 
 ### Prerequisite :
+first unzip the zip folder named "Foodimg2Ing"
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 
 1. Model (Modelbest.ckpt) : [Download Modelbest.ckpt](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
